@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @patrickevans29
-- 👀 I’m interested in building an app for small businesses. 
-- 🌱 I’m currently learning machine learning with Python. 
+- 👀 I’m interested in data analysis and machine learning. 
+- 🌱 I’m currently learning about AWS. 
 - 💞️ I’m looking to collaborate on anything that I can help with. 
 - 📫 How to reach me ...
 
